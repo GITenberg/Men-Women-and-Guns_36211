@@ -1,0 +1,37 @@
+_repo: Men-Women-and-Guns_36211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McNeile, H. C. (Herman Cyril)
+    alias: McNeile, Herman Cyril
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '26827'
+    url: http://www.gutenberg.org/2009/agents/26827
+    wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
+description: Prologue.--pt. 1. The motor-gun. Private Meyrick--company idiot. Spud
+  Trevor of the Red Hussars. The fatal second. Jim Brent's V.C. Retribution. The death
+  grip. James Henry.--pt. 2. The Land of topsy turvy.
+gutenberg_issued: '2011-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'War stories, English'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+tableOfContents: 'Prologue -- Part one: The motor-gun. Private Meyrick, company idiot.
+  Spud Trevor of the Red Hussars. The fatal second. Jim Brent''s V.C. Retribution.
+  The death grip. James Henry -- Part two, the land of topsy turvy: The grey house.
+  The women and ... the men. The woman and the man. "The regiment." The contrast.
+  Black, white, and ... grey. Archie and others. On the staff. No answer. The madness.
+  The grey house again.'
+title: Men, Women and Guns
+url: http://www.gutenberg.org/ebooks/36211
